@@ -1,0 +1,15 @@
+{
+  "name": "streamaudio",
+  "version": "1.0.0",
+  "description": "Audio streaming to backend\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-addon-api": "^8.2.2",
+    "ws": "^8.18.0"
+  }
+}
